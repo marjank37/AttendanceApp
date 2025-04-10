@@ -1,0 +1,11 @@
+id,firstname,lastname,studentcard
+1,marjan,kazemi,100
+2,shadi,bagheri,104
+3,mahdi,taghizadeh,112
+4,asal,beghar,103
+5,fatemeh,nosrati,101
+6,mohammad,lavasani,117
+7,taha,mani,111
+8,donya,jalali,113
+9,saeideh,payandeh,107
+10,mahdi,farahani,116
