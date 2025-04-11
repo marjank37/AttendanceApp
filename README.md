@@ -3,6 +3,9 @@
 This is a Python GUI project to manage student attendance for a 10-session class using **Tkinter**.
 
 ---
+## 📸 Preview
+
+![App Screenshot](screenshot.png)
 
 ## ✅ Features
 
